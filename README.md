@@ -6,19 +6,19 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) eğitiminde oluşturduğumuz il
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''
+```
 gh repo clone fatihayaz1/kodluyoruzilkrepo
-'''
+```
 
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux İçin:
 
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 
